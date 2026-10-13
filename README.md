@@ -1,13 +1,26 @@
+👾 Hey, moi c'est Ugo !
+Bienvenue sur mon profil GitHub ! Je m'intéresse au développement web. J'aime apprendre de nouvelles technologies et donner vie à mes idées à travers des projets.
 
-## 🌐 Réseaux sociaux :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kayn_205) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kaynn205) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kaynn205) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kayn205) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barreauugo.contact@gmail.com) 
+🛠️ Technologies & outils
+💻 Langages
 
-# 💻 Connaissances :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊Les stats overall:
-![](https://github-readme-stats.vercel.app/api?username=Kaynn205&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kaynn205&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynn205&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+!JavaScript !Python !Java !PHP !HTML5 !CSS3
 
----
-[![](https://visitcount.itsvg.in/api?id=Kaynn205&icon=0&color=0)](https://visitcount.itsvg.in)
+
+⚙️ Outils & création
+
+!Git !GitHub !Netlify !Figma !WordPress !Trello
+
+📊 Mes statistiques GitHub
+
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaynn205&showicons=true&theme=tokyonight&hideborder=true&rankicon=github" alt="Statistiques GitHub de Kayn" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynn205&layout=compact&theme=tokyonight&hideborder=true" alt="Langages les plus utilisés" /> </p>
+
+<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Kaynn205&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" /> </p>
+
+🌐 Retrouve-moi sur les réseaux
+
+<p align="center"> <a href="https://instagram.com/kayn_205"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://twitch.tv/kaynn205"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /> </a> <a href="https://x.com/Kaynn205"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> <a href="https://youtube.com/@Kayn205"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <a href="mailto:barreauugo.contact@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+
+<p align="center"> <i>🚀 Toujours apprendre, toujours créer, toujours progresser.</i> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaynn205&style=for-the-badge&color=6366f1&label=VISITEURS" alt="Nombre de visiteurs" /> </p>
