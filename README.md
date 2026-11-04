@@ -3,13 +3,9 @@ Bienvenue sur mon profil GitHub ! Je m'intéresse au développement web. J'aime 
 
 🛠️ Technologies & outils
 💻 Langages
-
-!JavaScript !Python !Java !PHP !HTML5 !CSS3
-
-
 ⚙️ Outils & création
 
-!Git !GitHub !Netlify !Figma !WordPress !Trello
+
 
 📊 Mes statistiques GitHub
 
