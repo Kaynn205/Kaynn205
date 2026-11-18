@@ -75,9 +75,5 @@
 ---
 
 <p align="center">
-  <i>🚀 Toujours apprendre, toujours créer, toujours progresser.</i>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaynn205&style=for-the-badge&color=6366f1&label=VISITEURS" alt="Nombre de visiteurs" />
 </p>
