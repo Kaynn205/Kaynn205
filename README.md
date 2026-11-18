@@ -40,7 +40,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
 </p>
----
+
 
 ## 📊 Mes statistiques GitHub
 
