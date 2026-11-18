@@ -8,15 +8,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Pseudo-Kayn-6366f1?style=for-the-badge" alt="Pseudo Kayn" />
   <img src="https://img.shields.io/badge/Focus-D%C3%A9veloppement%20Web-0ea5e9?style=for-the-badge" alt="Focus développement web" />
-  <img src="https://img.shields.io/badge/Statut-En%20apprentissage-22c55e?style=for-the-badge" alt="En apprentissage" />
+  <img src="https://img.shields.io/badge/Statut-En%20apprentissage-22c55e?style=for-the-badge" alt="Etudiant" />
 </p>
 
 ---
 
 ## 🔭 En ce moment
 
-- 🧩 Je développe **TheQuizz**, une application de quiz à choix multiples en temps réel
-  (React, Node/Express, MongoDB, Redis, SockJS + STOMP, PWA)
+- 🧩 React, Node/Express MongoDB
 - 📚 J'approfondis le développement full-stack JavaScript
 - 🤖 J'explore le développement assisté par des agents IA
 
@@ -52,18 +51,14 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaynn205&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
-</p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Kaynn205&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" /></a></p>
 
 ---
 
-## 🌐 Retrouve-moi sur les réseaux
+## 🌐 Retrouve-moi sur les réseaux où je commente !
 
 <p align="center">
-  <a href="https://instagram.com/kayn_205">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitch.tv/kaynn205">
+  <a href="https://twitch.tv/kayn_205">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://x.com/Kaynn205">
