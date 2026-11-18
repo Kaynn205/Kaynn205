@@ -23,12 +23,12 @@
 
 ### 💻 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,dart,php" alt="HTML, CSS, JavaScript, TypeScript, Java, Dart, PHP" />
 </p>
 
 ### ⚙️ Frameworks & librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,webpack" alt="React, Redux, Node.js, Express, Tailwind, Webpack" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,webpack,flutter,laravel,symfony" alt="React, Redux, Node.js, Express, Tailwind, Webpack, Flutter, Laravel, Symfony" />
 </p>
 
 ### 🗄️ Données & infrastructure
@@ -40,7 +40,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
 </p>
-
 ---
 
 ## 📊 Mes statistiques GitHub
